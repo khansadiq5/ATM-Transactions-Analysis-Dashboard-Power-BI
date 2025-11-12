@@ -15,7 +15,7 @@ The dashboard provides insights into transaction trends, cost maintenance, and r
 ## 📊 Dataset
 
 The dataset includes:
- -  <a href = "https://github.com/khansadiq5/Store-Sales-Analysis_Dashboard/blob/main/Store%20Sales%20DataSet.xlsx"> ATM Transaction Data</a>
+ -  <a href = "https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/DataSet.xlsx"> ATM Transaction Data</a>
 
 ## 🚀 Key KPIs
  - Total Cost – Overall ATM operational cost.
@@ -68,11 +68,11 @@ The dataset includes:
 Below are snapshots of the dashboard:
 
  - Home Page
-<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard/blob/main/Screenshot%202025-11-12%20200845.png" width="900"/>
+<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Home%20Page.png"/>
  - Dashboard Overview
-<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard/blob/main/Screenshot%202025-11-12%20200924.png" width="900"/>
+<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Dashboard%20Page.png"/>
  - Detail Page
-<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard/blob/main/Screenshot%202025-11-12%20200950.png" width="900"/>
+<img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Detail%20Page.png"/>
 
 ## 🛠️ Tools Used
 
