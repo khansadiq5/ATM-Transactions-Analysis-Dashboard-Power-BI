@@ -1,4 +1,4 @@
-#ATM Transactions Analysis Dashboard (Power BI)
+# ATM Transactions Analysis Dashboard (Power BI)
 ## 🏁 Project Objective
 
 This project aims to analyze and visualize ATM transaction performance across different Indian states using Power BI.
@@ -69,8 +69,10 @@ Below are snapshots of the dashboard:
 
  - Home Page
 <img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Home%20Page.png"/>
+
  - Dashboard Overview
 <img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Dashboard%20Page.png"/>
+
  - Detail Page
 <img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard-Power-BI/blob/main/Detail%20Page.png"/>
 
