@@ -28,7 +28,8 @@ The dataset includes:
    
  - Average eBill – Electronic billing average per ATM.
 
-##📈 Dashboard Sections
+## 📈 Dashboard Sections
+
  ->1️⃣ Home Page
 
  - Introductory view with project name and quick navigation buttons (Home, Dashboard, Detail).
@@ -73,7 +74,7 @@ Below are snapshots of the dashboard:
  - Detail Page
 <img src="https://github.com/khansadiq5/ATM-Transactions-Analysis-Dashboard/blob/main/Screenshot%202025-11-12%20200950.png" width="900"/>
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
  - Power BI – For building and visualizing the interactive dashboard.
 
